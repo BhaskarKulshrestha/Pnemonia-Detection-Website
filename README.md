@@ -94,3 +94,10 @@ You can see the reuslts below:
 
 
 ![alt-text](https://github.com/anuj2110/pneumoniadetectionwebapp/blob/master/demo.gif)
+
+
+
+## ⚠️ Medical Disclaimer
+
+FOR RESEARCH AND EDUCATIONAL PURPOSES ONLY.
+This software is a technical prototype and has not been evaluated by the FDA or any medical regulatory body. It is intended to support clinical research and should not be used for primary diagnosis in a clinical setting.
